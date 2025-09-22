@@ -38,4 +38,5 @@ public class DictionaryView extends Application {
         primaryStage.setScene(scene);
         primaryStage.show();
     }
+
 }
