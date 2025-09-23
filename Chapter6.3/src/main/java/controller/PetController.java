@@ -20,4 +20,5 @@ public class PetController {
             pet.setY(pet.getY() + step * dy / distance);
         }
     }
+
 }

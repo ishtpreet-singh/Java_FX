@@ -11,7 +11,7 @@ import javafx.stage.Stage;
 import controller.PetController;
 import model.Pet;
 
-public class PetView extends Application {
+public class PetView extends Application  {
 
     private double mouseX = 0;
     private double mouseY = 0;
